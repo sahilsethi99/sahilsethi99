@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **sethisahil20132013@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BaCk5WHYicJoVSaPvGRstQi_GiUw95zB/view?usp=drivesdk](https://drive.google.com/file/d/1BaCk5WHYicJoVSaPvGRstQi_GiUw95zB/view?usp=drivesdk)
-
+- 📄 Know about my experiences [Resume](https://rb.gy/qo46xp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
