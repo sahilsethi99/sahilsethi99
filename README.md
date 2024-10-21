@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil Sethi</h1>
+<h1 align="center">Hey👋, I'm Sahil.</h1>
 <h3 align="center">With a blend of front-end expertise and backend knowledge, I bring versatility to the table. Worked with Asian Paints Ltd, Accolite Digital in the past.Confident in JavaScript-based technincal roles, I’m also open to consultancy, leveraging my broad experience in technology and project management within collaborative environments.</h3>
 
 - 🌱 I’m currently learning **Typescript, Nextjs.**
