@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sethisahil20132013@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://rb.gy/qo46xp)
+- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/1zqfj3axe9u9z15epmc91/SahilResume.pdf?rlkey=c8pyzmipgr5yc0t01o32km184&st=2ftfvzui&dl=0).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
